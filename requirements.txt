@@ -35,3 +35,4 @@ six==1.16.0
 soupsieve==2.5
 sqlparse==0.4.4
 telebot==0.0.5
+django-widget-tweaks==1.5.0
